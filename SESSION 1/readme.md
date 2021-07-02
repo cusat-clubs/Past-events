@@ -15,4 +15,4 @@ He is a graduate student pursuing his doctoral degree in Industrial & Systems En
 - **Youtube Link** - [HIGHER EDUCATION IN USA](https://www.youtube.com/watch?v=mUds2gD0TNo&t=21s)
 - **Date**: May 29, 2021
 
-<img src="/assets/images/Session1.jpeg" width=400" height="500" style="border-radius: 8px; margin-top: 15px;">
+<img src="/assets/images/Session1.jpeg" width="400" height="500" style="border-radius: 8px; margin-top: 15px;">
