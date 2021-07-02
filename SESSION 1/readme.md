@@ -1,6 +1,6 @@
 ## LIVE YOUR DREAM
 
-<img src="/assets/images/Session1.jpeg" width="400" height="500" style="border-radius: 8px; margin-top: 15px;">
+<img src="/assets/images/Session1.jpeg" width="400" height="200" style="border-radius: 8px; margin-top: 15px;">
 
 Are you someone who has always dreamed of getting your higher education from the  US? 
 Then join with us to explore the various paths which lead to a higher education in the states.
