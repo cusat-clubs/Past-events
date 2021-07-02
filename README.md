@@ -1,6 +1,5 @@
 # CUSAT Clubs
 
-![Cusat clubs](https://github.com/cusat-clubs/Past-events/blob/master/assets/images/CusatClubs.jpeg)
 
 
 Hey peeps! Welcome to Cusat Clubs! Here you get to see various sessions and activities that are organized as a collaborative effort by various clubs in Cusat.
