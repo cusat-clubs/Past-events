@@ -1,4 +1,5 @@
-# CUSAT Clubs
+# [CUSAT Clubs](https://cusat-clubs.github.io//)
+
 
 
 
@@ -9,6 +10,10 @@ From working professionals sharing their experience in particular job roles to e
 Excited to skill up and hear what lays ahead? Make sure to subscribe to our channel and press the bell icon to never miss notifications from us!
 
 
-For details check out our [website](https://cusat-clubs.github.io//)
+
+
 
 ![Cusat clubs](https://github.com/cusat-clubs/Past-events/blob/master/assets/images/Event%20Brite%20Banner.png)
+
+
+For more details check out our [website](https://cusat-clubs.github.io//)
