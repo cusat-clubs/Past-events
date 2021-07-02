@@ -1,6 +1,5 @@
 ## VIEWING THROUGH A SECURE LENS... IS IT A RIGHT CAREER?
 
-<img src="/assets/images/Session 5.jpg" width="400" height="500" style="border-radius: 8px; margin-top: 15px;">
 
 “It takes 20 years to build a reputation and few minutes of cyber-incident to ruin it.” – Stephane Nappo
 
@@ -16,3 +15,6 @@ Mark the date in the calendar to make sure you don't miss this opportunity!
 
 - **Youtube Link** - [Viewing through a secure lens... Is it a right career](https://www.youtube.com/watch?v=HWtLP2H5ls8)
 - **Date**: June 19, 2021
+
+
+<img src="/assets/images/Session 5.jpg" width="400" height="500" style="border-radius: 8px; margin-top: 15px;">
