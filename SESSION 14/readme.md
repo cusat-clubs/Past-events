@@ -10,4 +10,4 @@ Mark the date in the calendar to make sure you don't miss this opportunity!
 - **Youtube Link** - [Landing Your Dream Job](https://www.youtube.com/watch?v=O8MwmFNoMZ0)
 - **Date**: September 4, 2021
 
-<img src="/assets/images/Session_14.jpeg" width="400" height="500" style="border-radius: 8px; margin-top: 15px;">
+<img src="/assets/images/session_14.jpeg" width="400" height="500" style="border-radius: 8px; margin-top: 15px;">
